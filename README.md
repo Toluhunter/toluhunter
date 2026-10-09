@@ -1,28 +1,61 @@
-# 💫 About Me:
-Tolulope Fakoya, a passionate tech enthusiast and AI & cloud engineer with a deep interest in cybersecurity, artificial intelligence, and innovative problem-solving. With a strong background in AWS and a growing focus on Generative AI, I enjoy building modern, scalable solutions that empower businesses from startups to enterprises.<br><br>Outside of tech, I enjoy creative storytelling, immersive games like Nier Automata and The Witcher 3, and designing engaging user experiences. Whether it’s automating a workflow, optimizing infrastructure, or mentoring others on their cloud journey, I strive to bring innovation and clarity to every project I take on.<br><br>Let’s build something awesome together.
+# Hi, I'm Tolulope Fakoya (Hunter)
 
+I'm a **DevOps and platform engineer** with 5+ years on AWS. I like infrastructure that's boring
+in the best way: it deploys itself, scales when it should, tells you before it breaks, and doesn't
+quietly double the bill. Day to day that means Terraform, CI/CD, release engineering,
+observability, cost optimization, and lately, getting agentic LLM systems production-ready.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tolulope-fakoya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tolu_hunter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toluhunterdev@gmail.com) 
+**Open to:** platform, DevOps, site reliability, cloud and AI engineering roles. Contract and
+contract-to-hire. Toronto, remote friendly.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat&logo=vultr) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toluhunter&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=toluhunter&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toluhunter&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Website](https://img.shields.io/badge/toluhunter.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://toluhunter.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/tolulope-fakoya) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toluhunterdev@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tolu_hunter)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=toluhunter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Certifications
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <a href="https://www.credly.com/badges/903530ff-d305-4c6f-8edf-7c459cea45fc"><img src="https://assets.toluhunter.com/certifications/aws-certified-devops-engineer-professional.png" alt="AWS Certified DevOps Engineer – Professional" title="AWS Certified DevOps Engineer – Professional" height="100"></a>
+  <a href="https://www.credly.com/badges/07e8216c-1aa2-4d75-847a-c5442d73462e"><img src="https://assets.toluhunter.com/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" height="100"></a>
+  <a href="https://www.credly.com/badges/51d36c94-97ce-4d4c-b286-f98a769f2e71"><img src="https://assets.toluhunter.com/certifications/aws-certified-machine-learning-specialty.png" alt="AWS Certified Machine Learning – Specialty" title="AWS Certified Machine Learning – Specialty" height="100"></a>
+  <a href="https://www.credly.com/badges/b41ec3b7-e89b-425a-9a27-1acab75c06f5"><img src="https://assets.toluhunter.com/certifications/comptia-security-ce-certification.png" alt="CompTIA Security+ ce" title="CompTIA Security+ ce" height="100"></a>
+  <a href="https://www.credly.com/badges/89c54739-c2c5-4fc0-8bcc-832192d9191d/public_url"><img src="https://assets.toluhunter.com/certifications/certified-in-cybersecurity-cc.png" alt="ISC2 Certified in Cybersecurity (CC)" title="ISC2 Certified in Cybersecurity (CC)" height="100"></a>
+</p>
+
+## Impact
+
+- Led AWS migrations for **25+ clients**, cutting each client's monthly AWS bill by about **25%**.
+- Cut AWS spend **55%** with Reserved and Spot Instances, then serverless refactors.
+- Replaced manual SSH deploys with CI/CD: release time from **20–30 min to 5–7 min**.
+- Introduced Terraform to teams that provisioned by hand: environment setup from **a day to 15 minutes**.
+- Moved breach detection from user reports to metric alerting on Prometheus and Grafana:
+  **30–60 min to 1–5 min**, halving total downtime.
+
+## Selected work
+
+- **[guarded-agentic-chatbot](https://github.com/Toluhunter/guarded-agentic-chatbot)**:
+  LangGraph agent with two-layer prompt-injection guardrails inside the graph, on input and
+  output. Two Terraform deployment tiers: ECS, RDS (pgvector) and ElastiCache on AWS, or a
+  single $24/month server. Load tested at 100 concurrent sessions. Bedrock, OpenAI, Gemini or
+  Ollama behind one interface, with Phoenix tracing. It runs the assistant on my site.
+- **[Terraform-Lambda-Blue-Green-Canary-No-Codedeploy](https://github.com/Toluhunter/Terraform-Lambda-Blue-Green-Canary-No-Codedeploy)**:
+  serverless API (API Gateway, Lambda, DynamoDB) in Terraform, with a reusable Lambda module
+  that publishes versions behind a live alias for blue/green releases without CodeDeploy.
+- **[portfolio](https://github.com/Toluhunter/portfolio)**: [toluhunter.com](https://toluhunter.com),
+  built and run end to end: TypeScript front end, backend API, infrastructure and CI/CD.
+- **[LocalRAGify](https://github.com/Toluhunter/LocalRAGify)**: zero-cost local RAG chatbot
+  with OpenSearch retrieval and Ollama, packaged with Docker Compose.
+
+## Stack
+
+**Cloud and IaC:** AWS (EC2, ECS, Lambda, API Gateway, RDS, DynamoDB, S3, VPC, IAM, CloudWatch, Bedrock), GCP, Terraform, Ansible
+
+**CI/CD and runtime:** GitHub Actions, Jenkins, CodePipeline, CodeBuild, CodeDeploy, Docker, Linux, Kubernetes (CKA in preparation)
+
+**Observability and security:** Prometheus, Grafana, CloudWatch, Phoenix LLM tracing, Wazuh, IAM least privilege
+
+**AI infrastructure:** LangGraph, RAG with pgvector, guardrails and evaluation suites, Bedrock, OpenAI, Gemini, Ollama
+
+**Languages:** Python, Go, TypeScript, Bash, PowerShell, SQL
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toluhunter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toluhunter) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Off the clock: storytelling and story-driven games like NieR: Automata and The Witcher 3.</sub>
